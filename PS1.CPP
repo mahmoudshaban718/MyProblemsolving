@@ -11,8 +11,7 @@ void PrintTableHeader()
         cout << i << "\t"; // Print ( 1    2    3 ...) 
     } 
     cout << 
-"\n_______________________________________________________________________
-____________\n"; 
+"\n___________________________________________________________________________________\n"; 
 } 
 string ColumnSperator(int i) 
 {   //   
@@ -32,7 +31,7 @@ void PrintMultiplicationTable()
  
         cout << " " << i << ColumnSperator(i) << "\t";             
  
-        for (int j = 1; j <= 10; j++)  للصف 
+        for (int j = 1; j <= 10; j++)  
         { 
             cout << j * i << "\t"; // Print ( 1   |  1   2 .... ) 
         } 

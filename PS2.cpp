@@ -1,5 +1,6 @@
- 
+  
 #include <iostream> 
+#include <cmath> 
 using namespace std; 
  
 enum enPrimNotPrime { Prime = 1, NotPrime = 2 }; 
@@ -19,7 +20,7 @@ int ReadPositiveNumber(string Message)
 enPrimNotPrime CheckPrime(int Number) 
 { 
  // Number = 10 
- int M = round(Number / 2); // 10 / 2 = 5 
+ int M = round((double)Number / 2);  
  
  for (int Counter = 2; Counter <= M; Counter++) // 2 <= 5 ? 
  { 
@@ -30,8 +31,7 @@ enPrimNotPrime CheckPrime(int Number)
 } 
 void PrintPrimeNumbersFrom1ToNumber(int Number) 
 { 
- cout << "\n Prime Numbers from " << 1 << " To " << Number << " are : 
-\n"; 
+ cout << "\n Prime Numbers from " << 1 << " To " << Number << " are : \n"; 
  
  for (int i = 1; i <= Number; i++) // 1 <= 10 ? التكرار   حلقة في ادخل ,  نعم 
  { 
@@ -44,6 +44,5 @@ void PrintPrimeNumbersFrom1ToNumber(int Number)
 } 
 int main() 
 { 
- PrintPrimeNumbersFrom1ToNumber(ReadPositiveNumber("Pleas enter a 
-positive number ")); 
+ PrintPrimeNumbersFrom1ToNumber(ReadPositiveNumber("Pleas enter a positive number ")); 
 }
