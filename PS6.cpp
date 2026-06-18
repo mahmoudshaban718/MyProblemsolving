@@ -1,3 +1,6 @@
+/*
+ Title: Sum of Digits 
+*/
 #include <iostream> 
 using namespace std; 
  
