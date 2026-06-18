@@ -1,3 +1,7 @@
+/*
+Description: Write a program to read a number, then check if it is a 
+Perfect Number or not. 
+*/
 #include <iostream> 
 using namespace std; 
  
