@@ -1,3 +1,7 @@
+/*
+Description: Write a program print the multiplication table from 1 
+to 10 as follows.
+*/
 #include<iostream> 
 using namespace std; 
  
