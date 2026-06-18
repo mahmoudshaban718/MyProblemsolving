@@ -1,3 +1,7 @@
+/*
+Description: Write a program to read a number, then print its digits 
+in a reversed order.
+*/
 #include <iostream> 
 using namespace std; 
  
