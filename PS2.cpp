@@ -1,4 +1,7 @@
-  
+  /*
+  Description: Write a program to read a number, then print all 
+prime numbers from 1 to that number.
+  */
 #include <iostream> 
 #include <cmath> 
 using namespace std; 
