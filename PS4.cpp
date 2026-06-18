@@ -1,3 +1,7 @@
+/*
+Description: Write a program to print all perfect numbers from 1 to 
+a entered number.
+*/
 #include <iostream> 
 using namespace std; 
  
