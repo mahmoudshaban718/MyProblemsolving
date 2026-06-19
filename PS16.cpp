@@ -1,3 +1,7 @@
+/*
+Description: Write a program to print all possible words 
+combination from AAA to ZZZ. 
+*/
 #include <iostream> 
  
 using namespace std; 

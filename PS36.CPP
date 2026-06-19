@@ -1,3 +1,7 @@
+/*
+Description: Write a program to allow the user to input elements 
+into an array dynamically without defining the size beforehand. 
+*/
 #include<iostream> 
 using namespace std; 
 int ReadNumber() 

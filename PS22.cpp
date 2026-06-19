@@ -1,3 +1,8 @@
+
+/*
+Description: Write a program to read an array and count the 
+frequency of a specific element inside it. 
+*/
 #include <iostream> 
 using namespace std; 
 int ReadPositiveNumber(string Message) 

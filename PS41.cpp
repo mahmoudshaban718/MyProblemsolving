@@ -1,3 +1,7 @@
+/*
+ Description: Write a program to check if the array elements form a 
+palindrome or not. 
+*/
 #include <iostream> 
  
 using namespace std; 

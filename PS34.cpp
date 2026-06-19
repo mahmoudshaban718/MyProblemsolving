@@ -1,3 +1,7 @@
+/*
+Description: Write a program to search for a specific number in a 
+random array and return its index.
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

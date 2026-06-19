@@ -1,3 +1,7 @@
+/*
+Description: Write a program to sum the elements of two arrays 
+and store the results in a third array. 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

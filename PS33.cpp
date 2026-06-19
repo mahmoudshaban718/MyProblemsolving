@@ -1,3 +1,7 @@
+/*
+Description: Write a program to fill an array with generated 
+random keys. 
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

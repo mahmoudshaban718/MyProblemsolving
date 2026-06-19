@@ -1,3 +1,8 @@
+/*
+Description: Write a program to read a number, then print the sum 
+of its digits.
+*/
+
 #include <iostream> 
 using namespace std; 
  

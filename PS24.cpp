@@ -1,3 +1,7 @@
+/*
+Description: Write a program to find the max element in an array 
+filled with random numbers.
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

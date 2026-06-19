@@ -1,3 +1,7 @@
+/*
+Description: Write a program to shuffle (randomize the order of) 
+elements in an ordered array. 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

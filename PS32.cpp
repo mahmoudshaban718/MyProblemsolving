@@ -1,3 +1,7 @@
+/*
+Description: Write a program to copy elements of a first array into 
+a second array in a reverse order. 
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

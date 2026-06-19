@@ -1,3 +1,7 @@
+/*
+Description: Write a program to generate a random character 
+(Small letter, Capital letter, Special character, Digit). 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

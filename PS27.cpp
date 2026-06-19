@@ -1,3 +1,7 @@
+/*
+Description: Write a program to calculate the average of all 
+elements in a random array. 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

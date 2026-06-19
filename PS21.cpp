@@ -1,3 +1,7 @@
+/*
+Description: Write a program to generate random keys in format 
+(XXXX-XXXX-XXXX-XXXX). 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

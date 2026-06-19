@@ -1,3 +1,7 @@
+/*
+Description: Write a program to copy only prime numbers from a 
+first array to a second array. 
+*/
 #include <iostream> 
 #include <cstdlib> 
 #include <cmath> 

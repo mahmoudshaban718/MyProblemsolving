@@ -1,3 +1,7 @@
+/*
+Description: Write a program to fill an array with random numbers 
+from 1 to 100 and print it. 
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

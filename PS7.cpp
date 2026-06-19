@@ -1,3 +1,8 @@
+/*
+Description: Write a program to read a number, then reverse it and 
+print it as a number value.
+*/
+
 #include <iostream> 
 using namespace std; 
  

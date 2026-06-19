@@ -1,3 +1,7 @@
+/*
+Description: Write a program to check if a specific number exists 
+in a random array or not (Returns True/False).
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

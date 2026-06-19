@@ -1,3 +1,7 @@
+/*
+Description: Write a program to count even numbers inside a 
+random array. 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

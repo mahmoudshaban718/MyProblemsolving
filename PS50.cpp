@@ -1,3 +1,7 @@
+/*
+Description: Write a program to print the square root of a number 
+without using a built-in function. 
+*/
 #include <iostream> 
 #include <cmath> 
  

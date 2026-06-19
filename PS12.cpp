@@ -1,3 +1,7 @@
+/**
+ Description: Write a program to read a number, then print an 
+Inverted Number Pattern.
+ */
 #include <iostream> 
 using namespace std; 
  

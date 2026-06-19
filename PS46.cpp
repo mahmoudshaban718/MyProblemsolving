@@ -1,3 +1,7 @@
+/*
+Description: Write a program to calculate the absolute value of a 
+number without using the built-in abs function.
+*/
 #include <iostream> 
 #include <cmath> 
  

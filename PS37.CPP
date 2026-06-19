@@ -1,3 +1,7 @@
+/*
+Description: Write a program to copy an array to another array 
+using the dynamic AddElement function.
+*/
 #include <iostream> 
 #include <cstdlib> 
 using namespace std; 

@@ -1,3 +1,8 @@
+/*
+Description: Write a program to read a main number and a 
+specific digit, then count the frequency of that digit in the main 
+number.
+*/
 #include <iostream> 
 using namespace std; 
  

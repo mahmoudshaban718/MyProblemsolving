@@ -1,3 +1,7 @@
+/*
+Description: Write a program to implement a custom function to 
+round a float number. 
+*/
 #include <iostream> 
 #include <cmath> 
  

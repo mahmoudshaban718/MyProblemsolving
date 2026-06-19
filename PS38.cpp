@@ -1,3 +1,7 @@
+/*
+Description: Write a program to copy only odd numbers to a new 
+array dynamically. 
+*/
 #include <iostream> 
 #include <cstdlib> 
  

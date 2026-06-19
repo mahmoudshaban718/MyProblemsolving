@@ -1,3 +1,7 @@
+/*
+Description: Write a program to implement a custom function to 
+get the ceiling of a float number.
+*/
 #include <iostream> 
 #include <cmath> 
 using namespace std; 

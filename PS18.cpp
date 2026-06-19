@@ -1,3 +1,7 @@
+/*
+Description: Write a program to encrypt a text then decrypt it 
+using a simple key encryption algorithm. 
+*/
 #include <iostream> 
 #include <string> 
  

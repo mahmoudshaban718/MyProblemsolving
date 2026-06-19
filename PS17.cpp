@@ -1,3 +1,7 @@
+/*
+Description: Write a program to guess a 3-Letter Capital password 
+using a brute force method.
+*/
 #include <iostream> 
  
 using namespace std; 

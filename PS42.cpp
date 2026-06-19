@@ -1,3 +1,8 @@
+/*
+Description: Write a program to count odd numbers inside a 
+random array.  
+*/
+
 #include <iostream> 
 #include <cstdlib> 
  

@@ -1,3 +1,7 @@
+/*
+Description: Write a program to read a number, then print the 
+frequency of each digit in it. 
+*/
 #include <iostream> 
 using namespace std; 
  

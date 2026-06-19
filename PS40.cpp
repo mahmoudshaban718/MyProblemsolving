@@ -1,3 +1,7 @@
+/*
+Description: Write a program to copy only distinct (unique) 
+numbers from a first array to a second array. 
+*/
 #include <iostream> 
  
 using namespace std; 

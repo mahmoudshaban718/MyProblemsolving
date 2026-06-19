@@ -1,3 +1,7 @@
+/**
+ Description: Write a program to read a number, then print its digits 
+in order from left to right.
+ */
 #include <iostream> 
 using namespace std; 
  

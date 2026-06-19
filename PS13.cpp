@@ -1,3 +1,8 @@
+
+/*
+Description: Write a program to read a number, then print a 
+Number Pattern. 
+ */
 #include <iostream> 
 using namespace std; 
  
