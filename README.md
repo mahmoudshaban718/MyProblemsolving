@@ -14,7 +14,7 @@ Welcome to my repository documenting my journey in learning programming and prob
 
 | Module | Description |
 | :--- | :--- |
-| Algorithms L2 | Focuses on functions, basic algorithms, and string manipulation. |
+| Algorithms L2 | Focuses on functions, basic algorithms, and string manipulation.|
 | Algorithms L3 | Advanced logic, mathematical operations, and application-based problem solving. |
 | Algorithms L4 | Advanced solutions, date processing, and file handling. |
 | Data Structures L1 | Implementation of foundational structures: Arrays, Linked Lists, Stacks, Queues. |
